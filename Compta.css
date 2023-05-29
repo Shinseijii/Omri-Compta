@@ -1,0 +1,46 @@
+/*NAVBAR*/
+nav {
+    background-color: #6A994E;
+}
+.container-fluid a{
+    color: white;
+}
+.container-fluid a:hover{
+    color: #BC4749;
+}
+
+/*HERO*/
+
+.hero{
+    background-color: #F2E8CF;
+}
+.hero-img{
+    height: 50%;
+}
+
+/*SERVICE*/
+
+.accordion-body{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.toggle-archive{
+    flex-direction: column;
+    text-align: center;
+}
+.toggle-archive .accordion-item {
+    border: 0;
+    margin: 2px 0;
+}
+.services{
+    background-color: #6A994E;
+    padding-bottom: 50px;
+}
+.cont-bttn{
+    background-color: #6A994E;
+}
+.mrg{
+    margin: 0 12px;
+    padding: 0;
+}
